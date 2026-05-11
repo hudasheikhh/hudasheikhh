@@ -2,9 +2,15 @@
 
 ### Data Analyst | Power BI • SQL • Python
 
-I'm a Data Analyst based in Dubai, UAE with experience in business analytics, dashboard development, and predictive modelling across retail, e-commerce, and customer analytics projects.
+I’m a Data Analyst based in Dubai, UAE, currently pursuing an MSc in Data Science at Heriot-Watt University Dubai. With experience across retail, e-commerce, and business analytics projects, I enjoy transforming raw data into meaningful insights that support smarter business decisions.
 
-Currently pursuing an MSc in Data Science at Heriot-Watt University Dubai.
+I specialize in Power BI, SQL, Python, Advanced Excel, and predictive analytics, with hands-on experience building dashboards, analyzing business performance, and streamlining reporting workflows. My work has involved pricing analysis, KPI reporting, customer analytics, and AI-assisted analytics across fast-paced business environments.
+
+Through both academic and professional projects, I’ve developed strong analytical thinking, data storytelling, and problem-solving skills. I’m especially interested in business intelligence, machine learning, and data visualization, and I enjoy exploring how data can uncover patterns, optimize processes, and drive measurable impact.
+
+Currently, I’m expanding my knowledge in NLP, Large Language Models (LLMs), graph databases, and distributed systems as part of my postgraduate studies.
+
+This repository serves as my portfolio to showcase projects, technical skills, dashboards, machine learning models, and my journey in Data Analytics and Data Science.
 
 ---
 

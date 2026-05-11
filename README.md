@@ -1,6 +1,6 @@
 # Hi there, I'm Huda Shaikh 👋
 
-### Data Analyst | Power BI • SQL • Python
+### About Me
 
 I’m a Data Analyst based in Dubai, UAE, currently pursuing an MSc in Data Science at Heriot-Watt University Dubai. With experience across retail, e-commerce, and business analytics projects, I enjoy transforming raw data into meaningful insights that support smarter business decisions.
 

@@ -10,7 +10,7 @@ Through both academic and professional projects, I’ve developed strong analyti
 
 Currently, I’m expanding my knowledge in NLP, Large Language Models (LLMs), graph databases, and distributed systems as part of my postgraduate studies.
 
-This repository serves as my portfolio to showcase projects, technical skills, dashboards, machine learning models, and my journey in Data Analytics and Data Science.
+
 
 ---
 

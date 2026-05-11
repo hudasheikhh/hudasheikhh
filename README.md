@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Huda Shaikh 👋
 
-<!--
-**hudasheikhh/hudasheikhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI • SQL • Python
 
-Here are some ideas to get you started:
+I'm a Data Analyst based in Dubai, UAE with experience in business analytics, dashboard development, and predictive modelling across retail, e-commerce, and customer analytics projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing an MSc in Data Science at Heriot-Watt University Dubai.
+
+---
+
+## 🚀 Skills
+
+* Power BI
+* SQL
+* Python
+* Data Visualization
+* Machine Learning
+* Advanced Excel
+* DAX
+* Tableau
+* Exploratory Data Analysis (EDA)
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Loan Approval Prediction
+
+Machine learning project comparing classification models including Logistic Regression, Random Forest, and CNN models.
+
+### 🔹 Sales Dashboard in Power BI
+
+Interactive KPI dashboard for business performance and sales analysis.
+
+### 🔹 Retail Pricing Analysis
+
+SQL and Excel-based pricing analysis project for inventory optimization and competitor benchmarking.
+
+---
+
+## 🌱 Currently Learning
+
+* NLP
+* Large Language Models (LLMs)
+* Graph Databases
+* Distributed Storage Systems
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/huda-shaikh2203](http://www.linkedin.com/in/huda-shaikh2203)
+* Email: [shaikhhuda2203@gmail.com](mailto:shaikhhuda2203@gmail.com)
+
+⭐ Turning data into actionable business insights.

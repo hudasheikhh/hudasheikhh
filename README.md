@@ -1,4 +1,4 @@
-# Hi, I'm Huda Shaikh 👋
+# Hi there, I'm Huda Shaikh 👋
 
 ### Data Analyst | Power BI • SQL • Python
 

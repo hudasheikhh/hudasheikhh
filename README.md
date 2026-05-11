@@ -49,7 +49,7 @@ SQL and Excel-based pricing analysis project for inventory optimization and comp
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/huda-shaikh2203](http://www.linkedin.com/in/huda-shaikh2203)
+* LinkedIn: [www.linkedin.com/in/hudashaikh2203](http://www.linkedin.com/in/hudashaikh2203)
 * Email: [shaikhhuda2203@gmail.com](mailto:shaikhhuda2203@gmail.com)
 
 ⭐ Turning data into actionable business insights.
